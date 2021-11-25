@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+body{
+	background-image: url(rtx.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+.topnav{
+	overflow: hidden;
+	background-color: #443642;
+	margin-bottom: 10px;
+	margin-top: 0px;
+
+}
+a {
+	float:right;
+	padding:14px 16px;
+	text-decoration:none ;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 21px;
+	margin-bottom: 11px;
+}
+
+.topnav img{
+	width: 180px;
+	height: 100px;
+	margin-left: 10px;
+	margin top: 0px;
+	margin-bottom: 0px;
+}
+.container img{
+	width: 344px;
+	height:430px;
+	border-radius: 70%
+
+}
